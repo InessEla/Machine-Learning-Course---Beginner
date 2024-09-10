@@ -60,7 +60,7 @@ We’re constantly expanding this course with:
 
 ## **Contributors**
 
-This course is created with ❤️ by **[Your Name]** and **Emna**, to share our passion for Machine Learning and help beginners kickstart their journey into this exciting field.
+This course is created with ❤️ by **Ines** and **Emna**, to share our passion for Machine Learning and help beginners kickstart their journey into this exciting field.
 
 ---
 
